@@ -1,9 +1,9 @@
-#Developement continues here: https://github.com/thomaxius-and-co/lemon_bot_discord
+# Developement continues here: https://github.com/thomaxius-and-co/lemon_bot_discord
+# Developement continues here: https://github.com/thomaxius-and-co/lemon_bot_discord
+# Developement continues here: https://github.com/thomaxius-and-co/lemon_bot_discord
 
 
-
-
-# This is a (crappy) fork of lemon bot for discord: https://github.com/lemon65/lemon_bot_discord
+#This is a (crappy) fork of lemon bot for discord: https://github.com/lemon65/lemon_bot_discord
 	* Basically, what is done is that it has been ported to support Python 3.5 
 	(Which is required by Discord.py v. 13). Not all features work, yet.
 
